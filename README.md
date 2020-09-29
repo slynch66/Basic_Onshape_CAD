@@ -42,3 +42,6 @@ Onshape link to Bearing: https://cvilleschools.onshape.com/documents/ae8896e3ab0
 
 ### Reflection:
 
+<div class="text-purple">
+This text is purple
+</div>
