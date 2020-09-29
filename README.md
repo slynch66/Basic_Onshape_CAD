@@ -35,8 +35,8 @@ Onshape link: https://cvilleschools.onshape.com/documents/e0f32e3f7a6ebea4a8ddf7
 ### Reflection:
 
 ## Parts 6-9: Axle, Collar, Bearings
-![https://cvilleschools.onshape.com/documents/e94e5a4e80772d34ba6a868d/w/aab7fbfa7eca113a61010da5/e/e6012cb25396623ff64c4e44](Axle+Collar-screenshot.png)
-![https://cvilleschools.onshape.com/documents/ae8896e3ab0cc435b92925d7/w/3cf249e9880938799883782d/e/841f151a6954d409697adfe4](Bearing-screenshot.png)
+![https://cvilleschools.onshape.com/documents/e94e5a4e80772d34ba6a868d/w/aab7fbfa7eca113a61010da5/e/e6012cb25396623ff64c4e44](Images/Axle+collar-screenshot.png)
+![https://cvilleschools.onshape.com/documents/ae8896e3ab0cc435b92925d7/w/3cf249e9880938799883782d/e/841f151a6954d409697adfe4](Images/Bearing-screenshot.png)
 Onshape link to Axle + Collar: https://cvilleschools.onshape.com/documents/e94e5a4e80772d34ba6a868d/w/aab7fbfa7eca113a61010da5/e/e6012cb25396623ff64c4e44
 Onshape link to Bearing: https://cvilleschools.onshape.com/documents/ae8896e3ab0cc435b92925d7/w/3cf249e9880938799883782d/e/841f151a6954d409697adfe4
 
