@@ -63,7 +63,7 @@ I don't think I really learned anything new about Onshape from making these part
 # Dorothy's Dowel Pins
 
 ## Description:
-
+For the Dorothy's Dowel Pins assignment I made a dowel in onshape, and I used configurations to quickly make different models of the same dowel design. I configured the length, diameter, and the chamfer of the same dowel pin to be able to select the specific features I wanted for each dowel.
 
 ## Link to the Document:
 https://cvilleschools.onshape.com/documents/ee4c25a53f5a2441ab3b0dd3/w/2d4dca748608c0aff44881ac/e/1ab292ac7d2d81ff9fff38cd?configuration=List_KlDImR5Duk1y2h%3DDefault%3BList_sxPoePCoYkGxAy%3DDefault%3BList_v33P1anx6ZGAHo%3DDefault
@@ -73,3 +73,4 @@ https://cvilleschools.onshape.com/documents/ee4c25a53f5a2441ab3b0dd3/w/2d4dca748
 
 
 ## Lessons learned:
+I think the biggest thing after seeing how configurations work in Onshape is to think about other ways this tool can be applied. I think this feature could be used in the auto industry for making cars with different features or add-ons from the base model. For example, getting a Honda CRV with or without paying extra for a rear camera, or paying for an automatic or manual transition. Maybe an add-on could be the seats are more plush. These are ways I could see using configurations in Onshape would be very helpful.
