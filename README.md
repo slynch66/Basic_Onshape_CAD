@@ -68,6 +68,7 @@ I don't think I really learned anything new about Onshape from making these part
 ## Link to the Document: https://cvilleschools.onshape.com/documents/ee4c25a53f5a2441ab3b0dd3/w/2d4dca748608c0aff44881ac/e/1ab292ac7d2d81ff9fff38cd?configuration=List_KlDImR5Duk1y2h%3DDefault%3BList_sxPoePCoYkGxAy%3DDefault%3BList_v33P1anx6ZGAHo%3DDefault
 
 ## Picture:
+![Dowel Pins](Images/Dowel-Pins.png)
 
 
 ## Lessons learned:
