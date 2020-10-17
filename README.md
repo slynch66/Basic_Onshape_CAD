@@ -85,7 +85,7 @@ For this assignment I made a copy of the exercise document and reassembled the h
 https://cvilleschools.onshape.com/documents/d42a8ea8c74bc88f57fcbabf/w/9b792ed8d9e42a37dfc34a2d/e/2df0a49f7ac193c3fdc24f6b
 
 ## Picture:
-![Assembly Screeshot](Onshape-Fundamentals-Assemblies-Exercise.png)
+![Assembly Screenshot](Images/Onshape-Fundamentals-Assemblies-Exercise.png)
 
 ## Lessons learned:
 The most important lesson I learned is to make sure you know the level or freedom of movement that each mate allows so you immediately know which mate to use. For example, when you are mating a cylinder into a hole, you must know whether to use the sliding mate (moves in/out), the cylinder mate (slides in/out and rotates), or the revolute mate (doesn't slide in/out but it rotates). When you are learning the mates, you can use the arrows in each mate's icon on the toolbar for reference.
