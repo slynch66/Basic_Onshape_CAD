@@ -91,3 +91,16 @@ https://cvilleschools.onshape.com/documents/d42a8ea8c74bc88f57fcbabf/w/9b792ed8d
 The most important lesson I learned is to make sure you know the level or freedom of movement that each mate allows so you immediately know which mate to use. For example, when you are mating a cylinder into a hole, you must know whether to use the sliding mate (moves in/out), the cylinder mate (slides in/out and rotates), or the revolute mate (doesn't slide in/out but it rotates). When you are learning the mates, you can use the arrows in each mate's icon on the toolbar for reference.
 
 
+# Onshape Challenge
+
+## Description:
+The Onshape Challenge was creating a mount with 2 spinner shafts angled to each other that turn each other like gears, connected by a cube with pegs attached to each spinner shaft.
+
+## Link to the Document:
+https://cvilleschools.onshape.com/documents/5f526b902b45e2681bac54fa/w/badd770be56835cfae57a3d7/e/004cba2f87c3dfe6440f727c
+
+## Picture:
+![Assembly Screenshot](Images/Onshape-Challenge.png)
+
+## Lessons learned:
+I think the biggest thing you can learn from this assignment is the fluid transfer of motion from one direction to the opposite direction. This is a way to change to the direction without gears, helpful for projects involving fans or wheels where the transfer of motion isn't in-line, it's on an angle. An example would be a transfer of motion from a truck engine with a central rod turning left to right, using this change of direction to turn the back axle front to back.
