@@ -104,3 +104,20 @@ https://cvilleschools.onshape.com/documents/5f526b902b45e2681bac54fa/w/badd770be
 
 ## Lessons learned:
 I think the biggest thing you can learn from this assignment is the fluid transfer of motion from one direction to the opposite direction. This is a way to change to the direction without gears, helpful for projects involving fans or wheels where the transfer of motion isn't in-line, it's on an angle. An example would be a transfer of motion from a truck engine with a central rod turning left to right, using this change of direction to turn the back axle front to back.
+
+
+# Sub-Assembly
+
+## Description:
+For the sub-assembly assignment, I made an axle and bearings for the wheel. Then I created an assembly, putting together the wheel, tire, axle, and bearings. My sub assembly is now ready to be put together with the base, mount, and fork.
+
+## Link to the Document:
+https://cvilleschools.onshape.com/documents/48a3fd0b310ca157286235e9/w/642a13d0804e66f2bf0e1232/e/0a7b7f92519d9dca42e458bf
+
+## Picture
+![SubAssemblyScreenshot](Images/Sub-Assembly.png)
+
+## Lessons learned:
+In this assignment when you are making the axle, it has cuts in each end forming small flat surfaces. These flat surfaces on the axle allow for pins or threaded screws to push into the axle and hold it from spinning with the wheel. Here are some pictures of the collar and axle by themselves.
+![Sub-Assembly](Images/LessonFM1.png)
+![Sub-Assembly](Images/LessonFM2.png)
