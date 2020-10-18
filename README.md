@@ -119,5 +119,6 @@ https://cvilleschools.onshape.com/documents/48a3fd0b310ca157286235e9/w/642a13d08
 
 ## Lessons learned:
 In this assignment when you are making the axle, it has cuts in each end forming small flat surfaces. These flat surfaces on the axle allow for pins or threaded screws to push into the axle and hold it from spinning with the wheel. Here are some pictures of the collar and axle by themselves.
+
 ![Sub-Assembly](Images/LessonFM1.png)
 ![Sub-Assembly](Images/LessonFM2.png)
