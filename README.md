@@ -114,7 +114,7 @@ For the sub-assembly assignment, I made an axle and bearings for the wheel. Then
 ## Link to the Document:
 https://cvilleschools.onshape.com/documents/48a3fd0b310ca157286235e9/w/642a13d0804e66f2bf0e1232/e/0a7b7f92519d9dca42e458bf
 
-## Picture
+## Picture:
 ![SubAssemblyScreenshot](Images/Sub-Assembly.png)
 
 ## Lessons learned:
@@ -122,3 +122,19 @@ In this assignment when you are making the axle, it has cuts in each end forming
 
 ![Sub-Assembly](Images/LessonFM1.png)
 ![Sub-Assembly](Images/LessonFM2.png)
+
+
+# Final Caster Assembly
+
+## Description:
+The Final Caster Assembly was just making and putting together the assembly of the Base, Mount, Fork, Wheel, Tire, Axle, collars and bearings. These parts were assembled together using screws, bolts, pins and nuts from Onshape's standard content toolbox. 
+
+## Link to the Document:
+https://cvilleschools.onshape.com/documents/c7005314f58c87ce564a4dc5/w/e8a9f2c39108efc13bcee186/e/0ae30d16934c4b47c1077725
+
+## Picture:
+![Final-Caster-Assembly](Images/Final-Caster-Assembly.png)
+
+## Lessons Learned:
+An important lesson I learned from the Final Caster Assembly is how to insert standardized bolts, nuts and other common fasteners. You can insert these into an assembly by using INSERT, and then clicking STANDARD CONTENT. Here you can select the specific type of part you need, then the length, diamter, and size. Inserting these fasteners into your assembly when working on a project allow you to realistically put together your product in CAD utilizing the same bolts, nuts, screws, etc. that you will need when phyiscally putting it together.
+
