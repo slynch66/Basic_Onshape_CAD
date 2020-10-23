@@ -4,7 +4,7 @@
 # Table of Contents
 
 1. [Caster](#Caster)
-2. [Mount](##Part 2: Mount)
+2. [Mount](##Part2:Mount)
 
 
 # Caster
